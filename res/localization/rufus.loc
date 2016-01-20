@@ -4575,7 +4575,12 @@ t MSG_278 "Opstart type"
 t MSG_279 "Niet bootable"
 t MSG_280 "Image selectie"
 t MSG_281 "(Selecteer a.u.b. een image)"
-
+t MSG_282 "Exclusieve USB drive vergrendeling"
+t MSG_283 "Ongeldige handtekening"
+t MSG_284 "het gedownloade programmabestand heeft geen digitale handtekening."
+t MSG_285 "Het gedownloade programmabestand is ondertekend door '%s'.\nDit is geen herkende handtekening " 
+	"en zou dus kunnen betekenen dat iemand malware in dit bestand heeft verborgen...\nWeet u zeker dat u dit bestand wilt uitvoeren?"
+t MSG_286 "Nullen schrijven : %0.1f%% voltooid"
 ################################################################################
 l "fi-FI" "Finnish (Suomi)" 0x040B
 v 1.0.19
